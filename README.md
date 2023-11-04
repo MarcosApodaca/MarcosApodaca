@@ -1,4 +1,10 @@
-<h1 style="center">Hi I`Marcos 👋</h1>
+ <style>
+        .contenedor {
+            text-align: center;
+        }
+    </style>
+
+<h1 class="contenedor">Hi I`Marcos 👋</h1>
 
 ### About Me
 Passionate about the world of web development, my passion for coding and design has become a constant commitment. I love taking on creative challenges and finding innovative solutions to create impactful digital experiences.
