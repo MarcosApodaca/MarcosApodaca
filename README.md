@@ -8,7 +8,7 @@ Passionate about the world of web development, my passion for coding and design 
 <hr>
 
 ### My Skill
-<img src="https://icons8.com/icon/53377/learning">
+<img width="50" height="50" src="https://img.icons8.com/ios/50/learning--v1.png" alt="learning--v1"/>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,git)](https://skillicons.dev)
 </br>
 
