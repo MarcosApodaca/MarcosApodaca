@@ -1,6 +1,4 @@
 ### Hi I`Marcos 👋
 
-[⚙️  GitHub Analytics
-](https://img.shields.io/ansible/quality/:projectId
-)https://img.shields.io/ansible/quality/:projectId
-
+anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats
