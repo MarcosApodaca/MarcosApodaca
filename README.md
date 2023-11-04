@@ -1,13 +1,13 @@
 
 <h1>HI I`MARCOS👋</h1>
 
-###About Me
+### About Me
 <p>
 Passionate about the world of web development, my passion for coding and design has become a constant commitment. I love taking on creative challenges and finding innovative solutions to create impactful digital experiences.
 </p>
 <hr>
 
-###My Skill
+### My Skill
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,git)](https://skillicons.dev">
 
 ⚙️  GitHub Analytics
