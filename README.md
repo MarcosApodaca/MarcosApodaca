@@ -3,7 +3,7 @@
 
 ### About Me
 <p>
-Passionate about the world of web development, my passion for coding and design has become a constant commitment. I love taking on creative challenges and finding innovative solutions to create impactful digital experiences.
+Cultivated in the realm of web development, my fervor for coding and design stands as an enduring commitment. Embracing creative challenges, I continuously seek innovative solutions to craft compelling digital experiences.
 </p>
 <hr>
 
