@@ -1,5 +1,5 @@
 
-<h1>HI I`MARCOS👋</h1>
+<h1 text-aling="center">HI I`MARCOS👋</h1>
 
 ### About Me
 <p>
