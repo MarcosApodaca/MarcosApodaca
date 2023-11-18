@@ -5,7 +5,7 @@
 <p>
 Cultivated in the realm of web development, my fervor for coding and design stands as an enduring commitment. Embracing creative challenges, I continuously seek innovative solutions to craft compelling digital experiences.
 </p>
-<hr>
+<hr >
 
 ### My Skill
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,git,)](https://skillicons.dev">
