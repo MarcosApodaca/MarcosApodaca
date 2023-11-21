@@ -1,5 +1,5 @@
 
-<h1>FRONT-END DEVELOPER</h1 >
+<h1 align="center" >FRONT-END DEVELOPER</h1 >
 
 ### About Me
 <p>
