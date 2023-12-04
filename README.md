@@ -1,7 +1,7 @@
 
 <h1 align="center" >FRONT-END DEVELOPER</h1 >
 
-<img src="https://raw.githubusercontent.com/MarcosApodaca/img/master/aboutme.png?token=GHSAT0AAAAAACJDKEJIEXPWT42EGRHB7PXWZLNYVTA">
+<img src="https://github.com/MarcosApodaca/img/blob/master/aboutme.png?raw=true">
 <hr>
 
 ### Contact
