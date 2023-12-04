@@ -6,7 +6,7 @@
 
 ### Contact
 <a href="www.linkedin.com/in/marcos-apodaca">
-<img src="https://skillicons.dev/icons?i=js,linkedin)](https://skillicons.dev"> 
+<img src="https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev"> 
 </a>
 
 <hr>
