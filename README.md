@@ -6,11 +6,11 @@
 
 ### Contact
 <a href="www.linkedin.com/in/marcos-apodaca">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg"> 
+<img src="https://skillicons.dev/icons?i=js,linkedin)](https://skillicons.dev"> 
 </a>
 
 <hr>
-### My Skill
+###My Skill
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,git,)](https://skillicons.dev" >
 
 ⚙️ GitHub Analytics
