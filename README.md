@@ -5,12 +5,11 @@
 <hr>
 
 ### Contact
-<a href="www.linkedin.com/in/marcos-apodaca">
-  My Linkedin
+<a>
 <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin">
+www.linkedin.com/in/marcos-apodaca
 </a>
 
-</hr>
 ### My Skill
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,git,)](https://skillicons.dev" >
 
