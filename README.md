@@ -1,7 +1,7 @@
 
 <h1 align="center" >FRONT-END DEVELOPER</h1 >
 
-<img src="https://www.canva.com/design/DAF2BDyS7G8/DGR_wqULPuwBI_G8pXVWsw/view?utm_content=DAF2BDyS7G8&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img src="https://github.com/MarcosApodaca/img/blob/master/banner.png?raw=true">
 ### About Me
 <p>
 Cultivated in the realm of web development, my fervor for coding and design stands as an enduring commitment. Embracing creative challenges, I continuously seek innovative solutions to craft compelling digital experiences.
