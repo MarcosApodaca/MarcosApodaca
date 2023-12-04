@@ -6,7 +6,7 @@
 
 ### Contact
 <a href="www.linkedin.com/in/marcos-apodaca">
-<i<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin">
 </a>
 
 <hr>
