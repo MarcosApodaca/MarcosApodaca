@@ -9,7 +9,6 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin">
 </a>
 
-<hr>
 ### My Skill
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,git,)](https://skillicons.dev" >
 
