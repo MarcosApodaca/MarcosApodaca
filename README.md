@@ -2,10 +2,6 @@
 <h1 align="center" >FRONT-END DEVELOPER</h1 >
 
 <img src="https://github.com/MarcosApodaca/img/blob/master/banner.png?raw=true">
-### About Me
-<p>
-Cultivated in the realm of web development, my fervor for coding and design stands as an enduring commitment. Embracing creative challenges, I continuously seek innovative solutions to craft compelling digital experiences.
-</p>
 <hr >
 
 ### My Skill
