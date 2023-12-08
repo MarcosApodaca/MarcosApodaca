@@ -1,7 +1,7 @@
 
 <h1 align="center" >FRONT-END DEVELOPER</h1 >
 
-<img src="https://github.com/MarcosApodaca/img/blob/master/aboutme.png?raw=true">
+<img src="https://github.com/MarcosApodaca/img/blob/master/aboutme.png?raw=true" >
 <hr>
 
 
