@@ -6,7 +6,7 @@
 
 
 ### My Skill
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,astro,tailwind,)](https://skillicons.dev" >
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,tailwind,astro,)](https://skillicons.dev" >
 
 ⚙️ GitHub Analytics
 <div >
