@@ -1,7 +1,7 @@
 
 <h1 align="center" >FRONT-END DEVELOPER</h1 >
 
-![Original-size-Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.jpg](https://i.postimg.cc/WzHqKmqn/Original-size-Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.jpg)
+![github.jpg](https://i.postimg.cc/P5PPLVFr/github.jpg)
 <hr>
 
 
