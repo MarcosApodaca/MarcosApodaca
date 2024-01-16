@@ -1,7 +1,7 @@
 
 <h1 align="center" >FRONT-END DEVELOPER</h1 >
 
-<img src="https://www.canva.com/design/DAF6Cvz2SO8/view"/> 
+<img src="[https://www.canva.com/design/DAF6Cvz2SO8/view](https://i.postimg.cc/xT9tv99T/Original-size-Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.jpg)"/> 
 <hr>
 
 
