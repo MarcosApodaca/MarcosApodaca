@@ -1,5 +1,5 @@
 
-<h1 align="center" >FRONT-END DEVELOPER</h1 >
+<h1 align="center" >FRONT-END DEVELOPER</h1>
 
 ![github.jpg](https://i.postimg.cc/P5PPLVFr/github.jpg)
 <hr>
